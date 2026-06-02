@@ -174,5 +174,37 @@
     "margin_after": 9.1,
     "revenue_forecast": 783.19,
     "days_to_clear": "9999"
+  },
+  {
+    "timestamp": "2026-06-01 17:26:29",
+    "product_id": "SKU_00001",
+    "product_name": "Adidas Red Cycling Shorts",
+    "category": "Sportswear",
+    "original_price": 1504.8,
+    "recommended_markdown": 0.0,
+    "new_price": 1504.8,
+    "strategy": "",
+    "confidence": 0.0,
+    "risk_level": "",
+    "reasoning": "",
+    "margin_after": 45.0,
+    "revenue_forecast": 1504.8,
+    "days_to_clear": "1890"
+  },
+  {
+    "timestamp": "2026-06-01 17:32:02",
+    "product_id": "SKU_00001",
+    "product_name": "Adidas Red Cycling Shorts",
+    "category": "Sportswear",
+    "original_price": 1504.8,
+    "recommended_markdown": 0.0,
+    "new_price": 1504.8,
+    "strategy": "",
+    "confidence": 0.0,
+    "risk_level": "",
+    "reasoning": "",
+    "margin_after": 45.0,
+    "revenue_forecast": 1504.8,
+    "days_to_clear": "1890"
   }
 ]
